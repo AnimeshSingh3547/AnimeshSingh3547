@@ -24,7 +24,7 @@
 
 ### 📊 GitHub Stats
 
-![Animesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Animesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnimeshSingh357&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -37,8 +37,8 @@
 ---
 
 ### 📫 Connect With Me
-- GitHub: https://github.com/YOUR_GITHUB_USERNAME  
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_ID  
+- GitHub: https://github.com/AnimeshSingh3547 
+- LinkedIn: https://linkedin.com/in/AnimeshSingh  
 
 ---
 
