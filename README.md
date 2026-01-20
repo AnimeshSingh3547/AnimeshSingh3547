@@ -24,7 +24,7 @@
 
 ### 📊 GitHub Stats
 
-![Animesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnimeshSingh357&show_icons=true&theme=tokyonight)
+![Animesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnimeshSingh3547&show_icons=true&theme=tokyonight)
 
 ---
 
